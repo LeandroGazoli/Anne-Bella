@@ -1,0 +1,57 @@
+body{
+	background-image: url('file:///C:/Users/Programação/Desktop/curso/Projeto%20Anna%20Belle/img/fundo.png');
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#corpo{
+	height: auto;
+	width: auto;
+}
+
+#conteudo{
+	max-width: 910px;
+	background-color: #eae4e4;
+
+}
+
+.item{
+	margin: 0px 10px
+}
+
+h2{
+	color: #828271;
+	font-size: 1.2em;
+
+}
+
+.menu{
+
+	font-weight: bold;
+	font-size: 20px;
+	padding: 18px;
+	background-color: #c5c5b2;
+}
+.menu a {
+	color: #4b566a;
+	padding: 15px;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+.borda{
+	border-style: solid;
+	border-color: #c9c7c7;
+	border-width: 15px;
+	margin: 0px 10px;
+}
+
+#direitos{
+	background-color: #c9c7c7 !important;
+	font-weight: bold;
+	padding: 40px;
+
+}
+.centralizar{
+	text-align: center;
+}
